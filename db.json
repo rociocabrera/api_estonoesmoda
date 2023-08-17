@@ -1,5 +1,6 @@
-[
-    {
+{ 
+    "availableProducts":[{
+        
         "id": "grey-dress",
         "title": "Grey Square Dress ",
         "price": 5000,
@@ -53,4 +54,4 @@
         "price": 5000,
         "img": "bluejeans.jpg"
     }
-]
+]}
