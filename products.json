@@ -2,9 +2,10 @@
   {
     "id": 1,
     "category": 1,
-    "title": "Grey Square Dress ",
+    "title": "Grey Square Dress",
     "price": 5000,
     "img": "dressgreysquare.webp",
+    "description": "Step into timeless elegance with this vintage-inspired grey dress, perfect for special occasions and garden parties.",
     "slug": "grey-square-dress"
   },
   {
@@ -13,6 +14,7 @@
     "title": "Scorpion Dress",
     "price": 6000,
     "img": "scorpion-dress.jpg",
+    "description": "Make a bold statement with this alluring black dress featuring daring scorpion-inspired patterns, designed for those who embrace their individuality.",
     "slug": "scorpion-dress"
   },
   {
@@ -21,6 +23,7 @@
     "title": "Spring Dress",
     "price": 7000,
     "img": "spring-dress.jpg",
+    "description": "This spring dress is a must-have for your wardrobe. Featuring a floral pattern and a flattering silhouette, this dress is perfect for any occasion.",
     "slug": "spring-dress"
   },
   {
@@ -29,6 +32,7 @@
     "title": "Bordeaux Pant",
     "price": 3000,
     "img": "pant-bordeaux.jpg",
+    "description": "Elevate your style with these rich burgundy trousers, perfect for adding sophistication to any outfit.",
     "slug": "bordeaux-pant"
   },
   {
@@ -37,6 +41,7 @@
     "title": "Brown Square Pant",
     "price": 4000,
     "img": "brown-pant-square.jpg",
+    "description": "Embrace modern-classic fusion with these deep brown pants featuring a subtle square pattern, ideal for both office and casual wear.",
     "slug": "brown-square-pant"
   },
   {
@@ -45,6 +50,7 @@
     "title": "Blue Jean",
     "price": 5000,
     "img": "bluejeans.jpg",
+    "description": "Your new go-to pair of premium denim jeans, offering a comfortable and flattering fit for versatile, stylish looks.",
     "slug": "blue-jean"
   },
   {
@@ -53,6 +59,7 @@
     "title": "Butterfly Shirt",
     "price": 2000,
     "img": "shirt-butterfly.jpg",
+    "description": "Add a touch of whimsy to your wardrobe with this charming butterfly shirt, perfect for casual wear.",
     "slug": "butterfly-shirt"
   },
   {
@@ -61,6 +68,7 @@
     "title": "Black Shirt",
     "price": 3000,
     "img": "black-shirt.jpg",
+    "description": "A classic black shirt is a wardrobe staple, and this one is no exception. Featuring a flattering fit and a timeless design, this shirt is perfect for any occasion.",
     "slug": "black-shirt"
   },
   {
@@ -69,6 +77,7 @@
     "title": "Bby Pink Shirt",
     "price": 4000,
     "img": "bby-pink-shirt.jpg",
+    "description": "Timeless charm meets vintage allure in this faded pink tee, offer comfort and versatility.",
     "slug": "bby-pink-shirt"
   }
 ]
